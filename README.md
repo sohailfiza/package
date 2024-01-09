@@ -78,7 +78,7 @@ Using npm:
 - Cone: Volume (coneV), Curved Surface Area (coneCSA), and Total Surface Area (coneTSA).
 - Sphere: Volume (sphrV) and Surface Area (sphrTSA).
 
-# Contributing
+# Contribution
 Feel free to contribute by opening issues or submitting pull requests on the GitHub repository.
 
 https://github.com/sohailfiza/sical.git
