@@ -1,13 +1,10 @@
-﻿# sical
-
-# Overview
+ # sical
 `sical` is a Node.js package that provides a collection of mathematical functions, trigonometric calculations, logarithmic operations, and geometrical computations for 2D and 3D shapes.
 
 # Table of Contents
-1. [Overview](#overview)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Available Functions](#available-functions)
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Available Functions](#available-functions)
     1. [Mathematical Operations](#mathematical-operations)
     2. [Trigonometry](#trigonometry)
     3. [Factorial, Permutation, Combination](#factorial-permutation-combination)
@@ -15,18 +12,19 @@
     5. [Mensuration](#mensuration)
         1. [2D Shapes](#2d-shapes)
         2. [3D Shapes](#3d-shapes)
-5. [Contributing](#contributing)
-6. [License](#license)
+4. [Contributing](#contributing)
+5. [License](#license)
 
 ## Installation
 To use `sical` in your Node.js project, you can install it,
 Using npm:
+
 ```bash
-  npm run deploy
+  npm i sical
 ``` 
 
 # Usage
-```bash
+```js
   const sical = require('sical');
 
   // Example: Add numbers
@@ -86,6 +84,6 @@ Feel free to contribute by opening issues or submitting pull requests on the Git
 https://github.com/sohailfiza/sical.git
 
 # License
-This project is licensed under the ISC License.
+ISC
 
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
