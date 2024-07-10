@@ -1,17 +1,17 @@
 {
   "name": "sical",
-  "version": "1.0.2",
-  "description": "Scientific Calculator",
+  "version": "2.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sohailfiza/sical.git"
   },
   "keywords": [
-    "sical"
+    "conversions", "binary", "binary to decimal", "bin2dec", "decimal to fraction", "number to fraction", "n2f",
+    "Mathematics", "factorial", "permutation", "combination", "volume", "area",
+    "octal", "hexadecimal"
   ],
   "author": "Md Sohail Fiza",
   "license": "ISC",
